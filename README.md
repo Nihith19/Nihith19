@@ -18,8 +18,7 @@ Designed a full e-commerce experience for a traditional Telugu sweets brand with
 
 ### 🚘 Mahavir Skoda - Website Redesign  
 Redesigned the Mahavir Skoda website with a responsive and modern UI.  
-[View Repository](https://github.com/Nihith19/mahavir-skoda-redesign) <!-- Replace with actual repo link -->
-
+[View Repository](https://github.com/Nihith19/mahavir-skoda-redesign) 
 <!---
 ### 📱 Proser App - Design & Prototype  
 Designed an app and website for Proser with detailed UX planning.  
