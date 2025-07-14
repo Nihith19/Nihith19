@@ -6,7 +6,7 @@
 
 ## 🔧 Tools & Technologies
 - 🎨 Design: Figma, Sketch
-- 💻 Code: HTML, CSS, Python, Django
+- 💻 Code: HTML, CSS, Python
 - 📱 Platforms: Web & Mobile
 - 🧪 UX: Wireframing, Prototyping, User Flows, Usability Testing
 
