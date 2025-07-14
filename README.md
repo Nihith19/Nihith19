@@ -16,10 +16,11 @@
 Designed a full e-commerce experience for a traditional Telugu sweets brand with category flows, bulk orders, and mobile responsiveness.  
 [View Repository](https://github.com/Nihith19/alanati-pindivantalu-design)
 
-<!---### 🚘 Mahavir Skoda - Website Redesign  
+### 🚘 Mahavir Skoda - Website Redesign  
 Redesigned the Mahavir Skoda website with a responsive and modern UI.  
-[View Repository](#) (Replace with real link)
+[View Repository](https://github.com/Nihith19/mahavir-skoda-redesign) <!-- Replace with actual repo link -->
 
+<!---
 ### 📱 Proser App - Design & Prototype  
 Designed an app and website for Proser with detailed UX planning.  
 [View Repository](#)
@@ -27,8 +28,9 @@ Designed an app and website for Proser with detailed UX planning.
 ### 📊 Entrepreneur Analysis Platform  
 Built with Django for business opportunity visualization.  
 [View Repository](#)
-
 --->
+
+---
 
 Let's collaborate and create beautiful experiences!
 
