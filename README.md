@@ -1,6 +1,6 @@
 # Hi, I'm Kollapudi Nihith 👋
 
-🎨 UI/UX Designer | 💻 Frontend Developer | 🎓 CSE Graduate  
+🎨 UI/UX Designer | 🎓 CSE Graduate  
 🔭 Passionate about building clean, user-centered designs  
 📍 Based in Hyderabad | 🌐 [LinkedIn](https://linkedin.com/in/kollapudi-nihith)  
 
