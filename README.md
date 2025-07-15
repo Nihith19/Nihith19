@@ -91,5 +91,5 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 <hr/>
 
 <p align="center">
-  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=gray" alt="Profile Views" /> <strong>0+</strong>
+  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=gray" alt="Profile Views" /> <strong></strong>
 </p>
