@@ -21,7 +21,7 @@ With a background in Computer Science and a love for minimalist design, I turn u
 Whether it’s an e-commerce store, a real estate app, or a brand revamp — I blend creativity and structure to make every pixel count.  
 Always learning. Always building.
 
-> _“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs_
+
 
 <br/>
 
