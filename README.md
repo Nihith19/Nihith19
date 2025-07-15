@@ -8,6 +8,9 @@
 <p align="center">
   📍 Hyderabad, India &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/kollapudi-nihith" target="_blank">Let’s connect</a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 <br/>
 
@@ -21,13 +24,13 @@ With a background in Computer Science and a love for minimalist design, I turn u
 Whether it’s an e-commerce store, a real estate app, or a brand revamp — I blend creativity and structure to make every pixel count.  
 Always learning. Always building.
 
-
+> _“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs_
 
 <br/>
 
 ---
 
-## 🛠️ Tools & Technologies 
+## 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -47,7 +50,7 @@ Always learning. Always building.
 
 ## 🌟 Featured Projects
 
-### 🍬 **Alanati Pindivantalu** – *E-Commerce UI/UX*
+### 🍬 **Alanati Pindivantalu** – *E-Commerce UI/UX*  
 Traditional Telugu sweets meet modern e-commerce. Designed mobile and web flows, category navigation, bulk order system, and gift box layout.  
 🔗 [View Project](https://github.com/Nihith19/alanati-pindivantalu-design)
 
@@ -86,5 +89,8 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 ---
 
 <p align="center">
-  🚀 Always designing with purpose | Made with ❤️ by <b>Nihith</b> | © 2025
+  🚀 Always designing with purpose | Made with ❤️ by <b>Nihith</b> | © 2025  
+</p>
+<p align="center">
+  Thank you for visiting my profile! Let's build something incredible together. 🚀
 </p>
