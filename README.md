@@ -89,8 +89,5 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 ---
 
 <p align="center">
-  🚀 Always designing with purpose | Made with ❤️ by <b>Nihith</b> | © 2025  
-</p>
-<p align="center">
   Thank you for visiting my profile! Let's build something incredible together. 🚀
 </p>
