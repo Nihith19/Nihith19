@@ -8,9 +8,6 @@
 <p align="center">
   📍 Hyderabad, India &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/kollapudi-nihith" target="_blank">Let’s connect</a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 <br/>
 
@@ -24,6 +21,7 @@ With a background in Computer Science and a love for minimalist design, I turn u
 Whether it’s an e-commerce store, a real estate app, or a brand revamp — I blend creativity and structure to make every pixel count.  
 Always learning. Always building.
 
+> _“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs_
 
 <br/>
 
@@ -89,4 +87,10 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 
 <p align="center">
   Thank you for visiting my profile! Let's build something incredible together. 🚀
+</p>
+
+<hr/>
+
+<p align="center">
+  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=gray" alt="Profile Views" /> <strong>0+</strong>
 </p>
