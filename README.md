@@ -27,7 +27,7 @@ Always learning. Always building.
 
 ---
 
-## 🛠️ Tools & Technologies I Love
+## 🛠️ Tools & Technologies 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
