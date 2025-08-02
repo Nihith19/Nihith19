@@ -19,8 +19,8 @@ I'm **Kollapudi Nihith**, a passionate UI/UX designer with a flair for crafting 
 With a background in Computer Science and a love for minimalist design, I turn user needs into engaging, intuitive interfaces.  
 
 Whether it’s an e-commerce store, a real estate app, or a brand revamp — I blend creativity and structure to make every pixel count.  
-Always learning. Always building.
-
+Always learning. Always building.  
+🎒 Check out my portfolio → [nihith19.github.io/portfolio](https://nihith19.github.io/portfolio/)
 
 <br/>
 
@@ -66,6 +66,21 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 
 ---
 
+## 🎒 Portfolio Website
+
+Take a deeper look at my work and case studies on my personal portfolio site:  
+🔗 [https://nihith19.github.io/portfolio](https://nihith19.github.io/portfolio/)
+
+<p align="center">
+  <a href="https://nihith19.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
@@ -91,5 +106,5 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 <hr/>
 
 <p align="center">
-  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=gray" alt="Profile Views" /> <strong></strong>
+  👁️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=Nihith19&style=flat-square&color=gray" alt="Profile Views" />
 </p>
