@@ -48,19 +48,18 @@ Always learning. Always building.
 
 ### 🍬 **Alanati Pindivantalu** – *E-Commerce UI/UX*  
 Traditional Telugu sweets meet modern e-commerce. Designed mobile and web flows, category navigation, bulk order system, and gift box layout.  
-🔗 [View Project](https://github.com/Nihith19/alanati-pindivantalu-design)
+🔗 [View Project](https://www.alanatipindivantalu.com/)
 
 ---
 
 ### 🚘 **Mahavir Skoda** – *Automotive Website Redesign*  
 Redesigned the official site of Mahavir Skoda with a clean, responsive interface and improved visual hierarchy for better engagement.  
-🔗 [View Project](https://github.com/Nihith19/mahavir-skoda-redesign)
+🔗 [View Project](https://mahavirskoda.com/)
 
 ---
 
 ### 🏙️ **Proser** – *Real Estate App & Web UI*  
 A full-fledged real estate platform with intuitive UI, map integration, filter system, and separate flows for “Buy” and “Rent.”  
-🔗 [View Project](https://github.com/Nihith19/proser-app-design)
 
 <br/>
 
@@ -72,7 +71,7 @@ Take a deeper look at my work and case studies on my personal portfolio site:
 🔗 [https://nihith19.github.io/portfolio](https://nihith19.github.io/portfolio/)
 
 <p align="center">
-  <a href="https://nihith19.github.io/portfolio/">
+  <a href="https://nihith19.github.io/My_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
