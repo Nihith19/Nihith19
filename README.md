@@ -20,7 +20,7 @@ With a background in Computer Science and a love for minimalist design, I turn u
 
 Whether it’s an e-commerce store, a real estate app, or a brand revamp — I blend creativity and structure to make every pixel count.  
 Always learning. Always building.  
-🎒 Check out my portfolio → [nihith19.github.io/portfolio](https://nihith19.github.io/My_Portfolio/)
+🎒 Check out my portfolio → [click here](https://nihith19.github.io/My_Portfolio/)
 
 <br/>
 
@@ -68,7 +68,7 @@ A full-fledged real estate platform with intuitive UI, map integration, filter s
 ## 🎒 Portfolio Website
 
 Take a deeper look at my work and case studies on my personal portfolio site:  
-🔗 [https://nihith19.github.io/portfolio](https://nihith19.github.io/portfolio/)
+🔗 [click here](https://nihith19.github.io/portfolio/)
 
 <p align="center">
   <a href="https://nihith19.github.io/My_Portfolio/">
